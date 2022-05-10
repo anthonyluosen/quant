@@ -1,3 +1,5 @@
+#### I was planning to expand this project so large portion code didn’t show over here:if you are insterested,please mail me by:aluosen@gmail.com or just add my wechat: PLuoSen
+
 # Project 1 - AlphaNet V3 
 
 ## AlphaNet:selecting stocks out of CSI Smallcap 500 Index 
